@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This repository contains an internship project focused on leveraging data visualization techniques to transform raw retail transaction data into actionable business insights. The project was undertaken as part of a Bachelor of Technology program in Computer Science & Engineering at Integral University, Lucknow.
+This project was completed as part of the Tata Data Visualisation: Empowering Business with Effective Insights virtual experience program on Forage.
+Forage partners with leading companies to provide free, open-access job simulations that let students and early-career professionals experience real workplace tasks. In this program, Tata provided a simulated business case where I worked with retail transaction data to derive insights, design dashboards, and communicate findings for executive decision-making.
 
 ## Key Features
 
