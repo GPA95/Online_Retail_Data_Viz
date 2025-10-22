@@ -110,7 +110,7 @@ Four interactive dashboards were designed in **Tableau**:
 ## Contact
 
 Ammaar Ahmad Khan  
-[![🌐 Visit My Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-blue?style=for-the-badge)](https://ammaar-portfolio-website.vercel.app/)  
+[![🌐 Visit My Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-blue?style=for-the-badge)](https://ammaar-portfolio-website.netlify.app/)  
 [![🐙 GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/GPA95)  
 [![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammaar-ahmad-khan-0044b9320/)  
 [![📬 Email Me](https://img.shields.io/badge/-Email%20Me-orange?style=for-the-badge&logo=gmail)](mailto:ammaarahmadkhan16@gmail.com)
